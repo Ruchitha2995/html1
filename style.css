@@ -1,0 +1,27 @@
+
+  body{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }  
+.boxes{
+    width: 300px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 20px;
+
+}
+.box1,.box2,.box3,.box4,.box5,.box6{
+width: 200px;
+height: 200px;
+}
+.box1,.box3,.box5{
+
+    background-color:blue ;
+}
+.box2,.box4,.box6{
+    background-color: brown;
+} 
+

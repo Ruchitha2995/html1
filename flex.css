@@ -1,0 +1,46 @@
+
+
+.boxes1{
+    width: 300px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 20px;
+
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+    position: static;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: cyan;
+    position: static;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: static;
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background-color: palevioletred;
+    position: static;
+}
+.box5{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: static;
+}
+.box6{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: static;
+} 

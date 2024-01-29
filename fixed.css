@@ -1,0 +1,34 @@
+
+ .box1{
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: relative;
+    left: 300px;
+
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background-color: yellowgreen;
+}
+.box5{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+.box6{
+    width: 200px;
+    height: 200px;
+    background-color:hotpink;
+} 
